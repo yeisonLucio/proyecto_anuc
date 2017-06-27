@@ -1,4 +1,4 @@
 localhost
-mydb
+anuc
 root
-root
+
